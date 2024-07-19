@@ -21,5 +21,5 @@ Output: [4,9,9,49,121]
 //int[] nums = [-4, -1, 0, 3, 10];
 int[] nums = [-7, -3, 2, 3, 11];
 
-int[] result = Solution.SortedSquares(nums);
+int[] result = SquaresOfSortedArray.SortedSquares(nums);
 Console.WriteLine(string.Join(", ", result));

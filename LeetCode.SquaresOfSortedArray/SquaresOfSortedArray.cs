@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace LeetCode.SquaresOfSortedArray;
 
-public class Solution
+public class SquaresOfSortedArray
 {
     public static int[] SortedSquares(int[] nums)
     {
