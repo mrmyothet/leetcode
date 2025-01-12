@@ -1,5 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-using LeetCode.SquaresOfSortedArray;
+﻿using LeetCode.SquaresOfSortedArray;
 
 /*
  Example 1:
