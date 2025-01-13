@@ -12,9 +12,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.ArraysTests", "LeetCode.ArraysTests\LeetCode.ArraysTests.csproj", "{3D394D14-6782-46DE-A528-72DF3E62DFDB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeetCode.Easy", "NeetCode.Easy\NeetCode.Easy.csproj", "{69AD9408-1C73-4983-A0FB-A04E76690A64}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.Easy", "NeetCode.Easy\LeetCode.Easy.csproj", "{69AD9408-1C73-4983-A0FB-A04E76690A64}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeetCode.EasyTests", "NeetCode.EasyTests\NeetCode.EasyTests.csproj", "{C6DC2D62-8EE9-4427-BA34-A0D01DF9FF4B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.EasyTests", "NeetCode.EasyTests\LeetCode.EasyTests.csproj", "{C6DC2D62-8EE9-4427-BA34-A0D01DF9FF4B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -44,7 +44,5 @@ Global
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {6BD5F066-B6EC-49D8-B01D-74494E202B86}
-	EndGlobalSection
-	GlobalSection(NestedProjects) = preSolution
 	EndGlobalSection
 EndGlobal
