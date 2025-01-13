@@ -1,4 +1,4 @@
-﻿using LeetCode.SquaresOfSortedArray;
+﻿using LeetCode.Arrays;
 
 /*
  Example 1:
