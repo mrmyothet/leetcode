@@ -1,13 +1,11 @@
-namespace NeetCode.EasyTests;
+namespace LeetCode.EasyTests;
 
-using NeetCode.Easy;
+using LeetCode.Easy;
 
 public class Tests
 {
     [SetUp]
-    public void Setup()
-    {
-    }
+    public void Setup() { }
 
     [Test]
     public void Test_4()
@@ -15,14 +13,14 @@ public class Tests
         int result = Sqrtx.Sqrt(4);
         Assert.That(result, Is.EqualTo(2));
     }
-    
+
     [Test]
     public void Test_8()
     {
         int result = Sqrtx.Sqrt(8);
         Assert.That(result, Is.EqualTo(2));
     }
-    
+
     [Test]
     public void Test_10000()
     {

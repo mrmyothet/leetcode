@@ -1,4 +1,4 @@
-﻿namespace NeetCode.Easy;
+﻿namespace LeetCode.Easy;
 
 public class Sqrtx
 {

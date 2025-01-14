@@ -18,6 +18,10 @@
     </ItemGroup>
 
     <ItemGroup>
+      <ProjectReference Include="..\LeetCode.Easy\LeetCode.Easy.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
         <Using Include="NUnit.Framework" />
     </ItemGroup>
 
